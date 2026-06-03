@@ -1,16 +1,19 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**sheriftux/sheriftux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi, I'm Sherif 👋
 
-Here are some ideas to get you started:
+**Founder of [Journalify](https://github.com/journalify)** — editorial OS for modern newsrooms · multi-tenant · Arabic-first · AI-native · built in Berlin.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Journalify org](https://img.shields.io/badge/org-Journalify-7912D5?style=for-the-badge&logo=github)](https://github.com/journalify) [![Website](https://img.shields.io/badge/journalify.io-7912D5?style=for-the-badge)](https://journalify.io)
+
+</div>
+
+---
+
+**Day job:** Building Journalify — a multi-tenant SaaS platform that helps newsrooms publish faster, with first-class Arabic / multilingual support and AI assistance that respects editorial judgment.
+
+**Location:** Berlin, Germany
+
+**Get in touch:** [sherif.mohamed@journalify.io](mailto:sherif.mohamed@journalify.io)
+
+Most of my active work lives in the [Journalify](https://github.com/journalify) organization. This profile is for legacy projects + early-stage personal experiments.
